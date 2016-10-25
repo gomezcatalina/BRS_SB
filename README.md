@@ -34,7 +34,7 @@ Follow this link: https://catalinagomez.shinyapps.io/BRSApp/
 
 ***
 
-![noise](vignettes/IllustrationBy_danielaluciamm@gmail.com.tif)
+![Behavioural responses of marine mammals to noise](vignettes/by_danielalucia.png)
 *Illustration by http://www.danielalucia.com/ *
 
 ***
