@@ -36,7 +36,7 @@ C. Gomez (1), J.W. Lawson (1), A.J. Wright (2), A. Buren (1), D. Tollit (3), and
 3) SMRU Consulting North America, 510-1529 6th Avenue West, Vancouver, British Columbia, Canada.
 4) DFO, Maurice Lamontagne Institute, DFO, Mont-Joli, Quebec, Canada, G5H 3Z4.
 
-*Corresponding author: C. Gomez. Current mailing address: Department of Fisheries and Oceans, Ocean and Ecosystem Sciences Division, Bedford Institute of Oceanography, Dartmouth, Nova Scotia, Canada, A1C 5X1. Telephone: (902) 426-8810. E-mail: Catalina.Gomez@dfo-mpo.gc.ca*
+*Corresponding author: C. Gomez. Current mailing address: Department of Fisheries and Oceans, Ocean and Ecosystem Sciences Division, Bedford Institute of Oceanography, Dartmouth, Nova Scotia, Canada, A1C 5X1. e-mail: Catalina.Gomez@dfo-mpo.gc.ca*
 
 **Abstract**
 
