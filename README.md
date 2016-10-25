@@ -3,6 +3,34 @@ Supplementary material 2 of the manuscript:
 
 **A systematic review on the behavioural responses of wild marine mammals to noise: the disparity between science and policy**
 
+This interactive supplementary material allows to download and display the publications and data cases included in the systematic review on the behavioural responses of wild marine mammals to noise. 
+
+You can access the supplementary different ways
+
+Option 1
+```R
+#Open R and read the following code
+install.packages("shiny")
+library(shiny)
+# Easiest way is to use runGitHub
+runGitHub("BRS_S2", "gomezcatalina")
+```
+
+Option 2 - clone this git repository, then use `runApp()`:
+```R
+# First clone the repository with git. If you have cloned it into
+# ~/BRS_S2, first go to that directory, then use runApp().
+setwd("~/BRS_S2")
+runApp()
+```
+Option 3 - uclone this git repository, then use `runApp()`:
+```R
+Follow this link: https://catalinagomez.shinyapps.io/BRSApp/
+```
+
+
+**ABSTRACT**
+
 C. Gomez (1), J.W. Lawson (1), A.J. Wright (2), A. Buren (1), D. Tollit (3), and V. Lesage (4)
 
 1) Department of Fisheries and Oceans (DFO), Marine Mammal Section, Northwest Atlantic Fisheries Centre, St. John’s, Newfoundland and Labrador, Canada, A1C 5X1. 
