@@ -32,7 +32,12 @@ Option 3
 Follow this link: https://catalinagomez.shinyapps.io/BRSApp/
 ```
 
+***
 
+![noise](vignettes/IllustrationBy_danielaluciamm@gmail.com.tif)
+*Illustration by http://www.danielalucia.com/ *
+
+***
 
 **A systematic review on the behavioural responses of wild marine mammals to noise: the disparity between science and policy**
 
