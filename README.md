@@ -8,16 +8,13 @@ Option 1
 ```R
 #Open R and read the following code
 library(shiny)
-library(shiny)
 library(shinythemes)
-library(shiny)
 library (ggplot2)
 library(plyr)
 library(sm)
 library(datasets)
 library(markdown)
 library(shinyBS)
-library(shinythemes)
 # Easiest way is to use runGitHub
 runGitHub("BRS_S2", "gomezcatalina")
 ```
