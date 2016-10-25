@@ -1,8 +1,6 @@
 # BRS_S2
 Supplementary material 2 of the manuscript: 
 
-**A systematic review on the behavioural responses of wild marine mammals to noise: the disparity between science and policy**
-
 This interactive supplementary material allows to download and display the publications and data cases included in the systematic review on the behavioural responses of wild marine mammals to noise. 
 
 You can access the supplementary different ways
@@ -28,6 +26,9 @@ Option 3 - uclone this git repository, then use `runApp()`:
 Follow this link: https://catalinagomez.shinyapps.io/BRSApp/
 ```
 
+
+
+**A systematic review on the behavioural responses of wild marine mammals to noise: the disparity between science and policy**
 
 **ABSTRACT**
 
