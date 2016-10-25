@@ -18,7 +18,7 @@ Option 2 - clone this git repository, then use `runApp()`:
 setwd("~/BRS_S2")
 runApp()
 ```
-Option 3:
+Option 3
 ```R
 Follow this link: https://catalinagomez.shinyapps.io/BRSApp/
 ```
