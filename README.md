@@ -11,7 +11,6 @@ library(shiny)
 # Easiest way is to use runGitHub
 runGitHub("BRS_S2", "gomezcatalina")
 ```
-
 Option 2 - clone this git repository, then use `runApp()`:
 ```R
 # First clone the repository with git. If you have cloned it into
@@ -19,7 +18,7 @@ Option 2 - clone this git repository, then use `runApp()`:
 setwd("~/BRS_S2")
 runApp()
 ```
-Option 3 - uclone this git repository, then use `runApp()`:
+Option 3:
 ```R
 Follow this link: https://catalinagomez.shinyapps.io/BRSApp/
 ```
