@@ -20,7 +20,7 @@ library(shinythemes)
 # Easiest way is to use runGitHub
 runGitHub("BRS_S2", "gomezcatalina")
 ```
-Option 2 - clone this git repository, then use `runApp()`:
+Option 2 
 ```R
 # First clone the repository with git. If you have cloned it into
 # ~/BRS_S2, first go to that directory, then use runApp().
