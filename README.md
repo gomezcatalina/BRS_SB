@@ -8,7 +8,8 @@ Option 1
 ```R
 Follow this link: https://catalinagomez.shinyapps.io/BRSApp/
 ```
-For R users
+*For R users*
+
 Option 2
 ```R
 #Open R and read the following code
