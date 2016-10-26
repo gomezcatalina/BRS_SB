@@ -1,10 +1,15 @@
 # Supplementary material 2
 
-This interactive supplementary material (S2) allows to download and display the publications and data cases included in the systematic review on the behavioural responses of wild marine mammals to noise. 
+This interactive supplementary material (S2) allows to download and display the references and data cases included in the systematic review on the behavioural responses of wild marine mammals to noise (Gomez et al. In press). 
 
-You can access the supplementary in different ways
+You can access the supplementary in different ways.
 
 Option 1
+```R
+Follow this link: https://catalinagomez.shinyapps.io/BRSApp/
+```
+For R users
+Option 2
 ```R
 #Open R and read the following code
 library(shiny)
@@ -15,21 +20,16 @@ library(sm)
 library(datasets)
 library(markdown)
 library(shinyBS)
-# Easiest way is to use runGitHub
+# Easiest way is to use runGitHub (shiny package)
 runGitHub("BRS_S2", "gomezcatalina")
 ```
-Option 2 
+Option 3 
 ```R
 # First clone the repository with git. If you have cloned it into
-# ~/BRS_S2, first go to that directory, then use runApp().
+# ~/BRS_S2, first set the working directory, then use runApp()(shiny package).
 setwd("~/BRS_S2")
 runApp()
 ```
-Option 3
-```R
-Follow this link: https://catalinagomez.shinyapps.io/BRSApp/
-```
-
 ***
 
 ![Behavioural responses of marine mammals to noise](vignettes/by_danielalucia.png)
