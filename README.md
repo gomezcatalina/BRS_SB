@@ -1,6 +1,8 @@
 # Supplementary material 2
 
-This interactive supplementary material (S2) allows the reader to download and display the references and data cases included in the systematic review on the behavioural responses of wild marine mammals to noise (Gomez et al. In press). 
+This interactive supplementary material (S2) allows the reader to download and display the references and data cases included in the systematic review on the behavioural responses of wild marine mammals to noise 
+
+Gomez et al. 2016: http://www.nrcresearchpress.com/journal/cjz DOI: 10.1139/cjz-2016-0098
 
 You can access the supplementary material in different ways.
 
