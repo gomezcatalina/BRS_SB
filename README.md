@@ -24,13 +24,13 @@ library(datasets)
 library(markdown)
 library(shinyBS)
 # Easiest way is to use runGitHub (shiny package)
-runGitHub("BRS_S2", "gomezcatalina")
+runGitHub("BRS_SB", "gomezcatalina")
 ```
 Option 3 
 ```R
 # First clone the repository with git. If you have cloned it into
 # ~/BRS_S2, first set the working directory, then use runApp()(shiny package).
-setwd("~/BRS_S2")
+setwd("~/BRS_SB")
 runApp()
 ```
 ***
